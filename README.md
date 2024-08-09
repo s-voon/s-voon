@@ -23,5 +23,5 @@ Hi there! Welcome to my homepage. My name is Sharon and I'm a Data Scientist wit
 ## 📔 Projects
 
 ## 📫 Connect with Me
-- ![Linkedin](https://www.linkedin.com/in/sharonvoon/)
+- [Linkedin](https://www.linkedin.com/in/sharonvoon/)
 
