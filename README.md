@@ -9,7 +9,7 @@ Hi there! Welcome to my homepage. My name is Sharon and I'm a Data Scientist wit
 - 🗻 I enjoy small hike that leads me scenic views
 - 🐡 I love snorkeling 
 
-## 🔧 ToolKit
+## 🛠️ ToolKit
 - Language: [![python](https://img.shields.io/badge/Python-3.9-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
 [![R](https://img.shields.io/badge/-script-276DC3.svg?style=flat&logo=R)](https://cran.r-project.org)
 [![RStudio](https://img.shields.io/badge/RStudio-project-75AADB.svg?style=flat&logo=RStudio)](https://www.rstudio.com)
@@ -19,3 +19,9 @@ Hi there! Welcome to my homepage. My name is Sharon and I'm a Data Scientist wit
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 ![HuggingFace](https://img.shields.io/badge/Huggingface-6B7280.svg?style=flat&logo=huggingface&logoColor=FFD21E)
+
+## 📔 Projects
+
+## 📫 Connect with Me
+- ![Linkedin](https://www.linkedin.com/in/sharonvoon/)
+
