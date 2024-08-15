@@ -6,7 +6,7 @@ Hi there! Welcome to my homepage. My name is Sharon and I'm a Data Scientist wit
 - 🎓 A recent graduate from Master of Data Science in The University of British Columbia
 - 💼 I have worked as a Data Associate for the past 1+ years
 - ✏️ Co-author of the `autopredictor` Python package
-- 🗻 I enjoy small hike that leads me scenic views
+- 🗻 I enjoy small hike that leads me to scenic views
 - 🐡 I love snorkeling 
 
 ## 🛠️ ToolKit
