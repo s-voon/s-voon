@@ -1,10 +1,10 @@
 ## 👋 Welcome~ 
 
-Hi there! Welcome to my homepage. My name is Sharon and I'm a Data Scientist with expertise in data analysis and reporting, model development, database design, and data visualization.  
+Hi there! Welcome to my homepage. My name is Sharon and I'm a data scientist with experince in data analysis and reporting, model development, database design, and data visualization.  
 
 ## ✨ About Me
 - 🎓 A recent graduate from Master of Data Science in The University of British Columbia
-- 💼 I have worked as a Data Associate for the past 1+ years
+- 💼 Worked as a Data Associate for the past 1+ years
 - ✏️ Co-author of the `autopredictor` Python package
 - 🗻 I enjoy small hike that leads me to scenic views
 - 🐡 I love snorkeling 
@@ -23,6 +23,20 @@ Hi there! Welcome to my homepage. My name is Sharon and I'm a Data Scientist wit
 ![Quarto](https://img.shields.io/badge/Quarto-377aab.svg?style=flat&logo=quarto&logoColor=white)
 
 ## 📔 Projects
+<img align="left" width="250" height="150" src="https://github.com/s-voon/s-voon.github.io/blob/main/imgs/cv_cover.jpg"> **[Robotic Arms Recognition Vision - Capstone Project](https://s-voon.github.io/blogs/robotic_arms_vision_recognition/)**
+
+I employed computer vision algorithms, leveraging zero-shot learning transformers and fine-tuning Mask R-CNN (MRCNN), to enable robotic arms for precise object detection and dimensional measurement. The project culminated in an end-to-end pipeline where users can input an image into the trained model and receive accurate dimension outputs.
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/s-voon/s-voon.github.io/blob/main/imgs/autoperdictor_logo.png"> **[Autopedictor Package](https://github.com/UBC-MDS/autopredictor)**
+
+In this project, I utilized Docker and GitHub Actions to create a Python package called autopredictor. This package simplifies the machine learning model selection process for regression tasks by providing an intuitive and streamlined approach, significantly reducing the amount of coding required for model exploration.
+
+#
+<img align="left" width="250" height="150" src="https://github.com/s-voon/s-voon.github.io/blob/main/imgs/crime_tracker.gif"> **[Vancouver Crime Tracker Dashboard](https://github.com/UBC-MDS/DSCI-532_2024_4_crime-tracker)**
+
+An interactive dashboard using Dash to visualize 2023 crime data across Vancouver neighborhoods through geolocated maps, trend lines, and bar charts. The dashboard and app were created using Dash and hosted via Render, providing an accessible and dynamic way to explore crime trends in the city.
 
 ## 📫 Connect with Me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?logo=linkedin)](https://www.linkedin.com/in/sharonvoon/) 
