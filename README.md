@@ -34,7 +34,7 @@ I employed computer vision algorithms, leveraging zero-shot learning transformer
 In this project, I utilized Docker and GitHub Actions to create a Python package called autopredictor. This package simplifies the machine learning model selection process for regression tasks by providing an intuitive and streamlined approach, significantly reducing the amount of coding required for model exploration.
 
 #
-<img align="left" width="250" height="150" src="https://github.com/s-voon/s-voon.github.io/blob/main/imgs/crime_tracker.gif"> **[Vancouver Crime Tracker Dashboard](https://github.com/UBC-MDS/DSCI-532_2024_4_crime-tracker)**
+<img align="left" width="250" height="150" src="https://github.com/s-voon/s-voon.github.io/blob/main/imgs/crime_tracker.png"> **[Vancouver Crime Tracker Dashboard](https://github.com/UBC-MDS/DSCI-532_2024_4_crime-tracker)**
 
 An interactive dashboard using Dash to visualize 2023 crime data across Vancouver neighborhoods through geolocated maps, trend lines, and bar charts. The dashboard and app were created using Dash and hosted via Render, providing an accessible and dynamic way to explore crime trends in the city.
 
