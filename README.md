@@ -38,6 +38,11 @@ In this project, I utilized Docker and GitHub Actions to create a Python package
 
 An interactive dashboard using Dash to visualize 2023 crime data across Vancouver neighborhoods through geolocated maps, trend lines, and bar charts. The dashboard and app were created using Dash and hosted via Render, providing an accessible and dynamic way to explore crime trends in the city.
 
+#
+<img align="left" width="250" height="150" src="https://github.com/s-voon/waste_classification/blob/main/recycle.png"> **[Waste Classification Model](https://github.com/s-voon/waste_classification)**
+
+This project contains a deep learning project for waste classification using transfer learning. The model is trained on a labeled dataset of waste images and fine-tuned to achieve high accuracy in classifying different types of waste. The project includes scripts for training, evaluating, and making predictions with the model, along with a detailed Jupyter notebook that guides you through the entire process.
+
 ## 📫 Connect with Me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?logo=linkedin)](https://www.linkedin.com/in/sharonvoon/) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-grey.svg?logo=github)](https://s-voon.github.io/)
