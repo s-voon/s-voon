@@ -4,10 +4,10 @@ Hi there! Welcome to my homepage. My name is Sharon and I'm a data scientist wit
 
 ## ✨ About Me
 - 🎓 A recent graduate from Master of Data Science in The University of British Columbia
-- 💼 Worked as a Data Associate for the past 1+ years
+- 💼 Worked as a Data Associate for the past 2+ years
 - ✏️ Co-author of the `autopredictor` Python package
 - 🗻 I enjoy small hike that leads me to scenic views
-- 🐡 I love snorkeling 
+- 🐡 Enjoy water activities despite not knowing how to swim
 
 ## 🛠️ ToolKit
 - Language: [![python](https://img.shields.io/badge/Python-3.9-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
